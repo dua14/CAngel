@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Music"
+    android:orientation="vertical"
+    ><ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    >
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+android:id="@+id/radioGroup1"
+        >
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Beep Beep"
+            android:textColor="@color/colorPrimaryDark"
+            android:id="@+id/b0"
+            android:textSize="30dp"
+            />
+        <RadioButton
+
+            android:id="@+id/b1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Clock nice"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30dp"
+            />
+        <RadioButton
+            android:id="@+id/b2"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mermaids"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b3"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="China bells"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b4"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Birds"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b5"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="by_richy"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b6"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Car horn"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b7"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Din don"
+            android:textColor="@color/colorPrimaryDark"
+            /> <RadioButton
+        android:id="@+id/b8"
+        android:textSize="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dnb"
+        android:textColor="@color/colorPrimaryDark"
+        />
+        <RadioButton
+            android:id="@+id/b9"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr Drummer tropes"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b10"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Good morning"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b11"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Holiday"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <RadioButton
+            android:id="@+id/b12"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Instrumental"
+            android:textColor="@color/colorPrimaryDark"
+            /> <RadioButton
+        android:id="@+id/b13"
+        android:textSize="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kamnev de building"
+        android:textColor="@color/colorPrimaryDark"
+        /> <RadioButton
+        android:id="@+id/b14"
+        android:textSize="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sleepy"
+        android:textColor="@color/colorPrimaryDark"
+        />
+        <RadioButton
+            android:id="@+id/b15"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="wake up"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <RadioButton
+            android:id="@+id/b16"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Magical alarm"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <RadioButton
+            android:id="@+id/b17"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Matrix clock"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <RadioButton
+            android:id="@+id/b18"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="bum bum tum tum"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+    </RadioGroup>
+</ScrollView>
+</LinearLayout>

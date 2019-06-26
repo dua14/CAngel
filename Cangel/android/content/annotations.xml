@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.content.Context android.content.Intent registerReceiver(android.content.BroadcastReceiver, android.content.IntentFilter)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
